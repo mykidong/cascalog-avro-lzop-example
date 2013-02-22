@@ -1,0 +1,10 @@
+{
+    "type": "record",
+    "name": "UserReadingBook",
+    "namespace": "clojure-example.avro",
+    "fields": [
+        {"name": "userId", "type": "string", "default": "mykidong" },
+        {"name": "isbn", "type": "string", "default": "111-222-333" },
+        {"name": "userReviewId", "type": "string", "default": "user-review-id-00" }
+    ]
+}

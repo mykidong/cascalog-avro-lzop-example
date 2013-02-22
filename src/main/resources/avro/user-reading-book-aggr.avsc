@@ -1,0 +1,9 @@
+{
+    "type": "record",
+    "name": "UserReadingBookAggregation",
+    "namespace": "clojure-example.avro",
+    "fields": [
+        {"name": "userId", "type": "string", "default": "mykidong" },
+        {"name": "count", "type": "int", "default": 0 }
+    ]
+}
