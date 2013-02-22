@@ -1,6 +1,6 @@
 # cascalog-avro-lzop-example
 
-A Cascalog example to write/read Lzop compressed Avro data to/from lfs using Cascalog.
+A Cascalog example to write/read Lzop compressed Avro data to/from Lfs using Cascalog.
 
 ## Usage
 
