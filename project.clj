@@ -1,7 +1,5 @@
 (defproject cascalog-avro-lzop-example "0.1.0-SNAPSHOT"
   :source-paths ["src/main/clojure"]
-  :java-source-paths ["src/main/java"] 
-  :test-paths ["src/test/clojure"]
   :resource-paths ["src/main/resources"]
   :compile-path "target/classes" 
   :target-path "target/"   
